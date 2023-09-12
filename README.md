@@ -1,5 +1,7 @@
 # Reto github
 
+<img src="./alright.jpg" width="400" alt="Alright, time to code">
+
 Desde la siguiente __URL__ [https://api.github.com/users/](https://api.github.com/users/) obtendremos información de un usuario de __github__.
 
 Por ejemplo para obtener información del usuario __webferrol__ es necesario escribir el enlace
